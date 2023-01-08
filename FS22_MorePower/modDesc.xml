@@ -8,10 +8,18 @@
   </title>
   <description>
     <en>
-    <![CDATA[Increases power of motorized vehicles
+    <![CDATA[You like maps with hills or mountains?
+You think your vehicles do not have enough power?
+This script can help you in this situation.
+It will increase (double) the power of your motorized vehicles.
+So it is possible to reach the top of the steepest mountains. 
 ]]></en>
     <de>
-    <![CDATA[Erhöht die Leistung von motorisierten Fahrzeugen
+    <![CDATA[Ihr spielt gerne auf hügeligen oder bergigen Karten?
+Ihr findet eure Fahrzeuge haben zu wenig Leistung?
+Dieses Script verschafft hier Abhilfe.
+Die Leistung der motorisierten Fahrzeuge wird durch dieses Script verdoppelt.
+Somit meistert ihr auch steile Berge.
 ]]></de>
   </description>
   <multiplayer supported="true"/>
