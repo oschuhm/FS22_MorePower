@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<modDesc descVersion="65">
+<modDesc descVersion="72">
   <author>LS-Farmers</author>
-  <version>0.0.0.1</version>
+  <version>1.0.0.0</version>
   <title>
     <en>More Power</en>
-    <de>More Power</de>
+    <de>Mehr Power</de>
   </title>
   <description>
     <en>
-    <![CDATA[
+    <![CDATA[Increases power of motorized vehicles
 ]]></en>
     <de>
-    <![CDATA[
+    <![CDATA[Erhöht die Leistung von motorisierten Fahrzeugen
 ]]></de>
   </description>
   <multiplayer supported="true"/>
