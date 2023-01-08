@@ -14,6 +14,6 @@ for vehicleTypeName, vehicleType in pairs(g_vehicleTypeManager.types) do
         g_vehicleTypeManager:addSpecialization(vehicleTypeName, 'morePower')
 		print ("  added morePower to " .. vehicleTypeName)
 	else
-		--print ("  skipped fuelLevelWarning for " .. vehicleTypeName)
+		--print ("  skipped morePower for " .. vehicleTypeName)
     end
 end
