@@ -1,8 +1,9 @@
 --
 -- register
 --
--- # Author: LS-Farmers.de 
--- # date: 02.01.2023
+-- # Author: LS-Farmers
+-- # GitHub: https://github.com/oschuhm/FS22_MorePower
+-- # date:   02.01.2023
 --
 
 if g_specializationManager:getSpecializationByName('morePower') == nil then

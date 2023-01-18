@@ -23,7 +23,7 @@ Somit meistert ihr auch steile Berge.
 ]]></de>
   </description>
   <multiplayer supported="true"/>
-  <iconFilename>modIcon.dds</iconFilename>
+  <iconFilename>icon_MorePower.dds</iconFilename>
   <extraSourceFiles>
     <sourceFile filename="register.lua"/>
   </extraSourceFiles>
