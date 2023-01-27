@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <modDesc descVersion="72">
   <author>LS-Farmers</author>
-  <version>1.0.0.0</version>
+  <version>1.0.0.1</version>
   <title>
     <en>More Power</en>
     <de>Mehr Power</de>
@@ -12,7 +12,10 @@
 You think your vehicles do not have enough power?
 This script can help you in this situation.
 It will increase (double) the power of your motorized vehicles.
-So it is possible to reach the top of the steepest mountains. 
+So it is possible to reach the top of the steepest mountains.
+
+Changelog 1.0.0.1
+- changed ModIcon 
 ]]></en>
     <de>
     <![CDATA[Ihr spielt gerne auf hügeligen oder bergigen Karten?
@@ -20,6 +23,9 @@ Ihr findet eure Fahrzeuge haben zu wenig Leistung?
 Dieses Script verschafft hier Abhilfe.
 Die Leistung der motorisierten Fahrzeuge wird durch dieses Script verdoppelt.
 Somit meistert ihr auch steile Berge.
+
+Änderungsliste 1.0.0.1
+- ModIcon angepasst
 ]]></de>
   </description>
   <multiplayer supported="true"/>
